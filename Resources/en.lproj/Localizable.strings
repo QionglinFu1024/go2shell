@@ -1,0 +1,19 @@
+/* Main view */
+"app.subtitle" = "Open terminal from current Finder directory";
+"settings.preferred_terminal" = "Preferred Terminal";
+"settings.not_installed" = "(Not Installed)";
+"settings.fallback_note" = "If the selected terminal is unavailable, the system default terminal will be used automatically.";
+
+/* Instructions */
+"instructions.title" = "How to Use";
+"instructions.step1.title" = "Drag to Finder Toolbar";
+"instructions.step1.detail" = "Hold ⌘ key and drag the go2shell icon to any Finder window's toolbar";
+"instructions.step2.title" = "Click to Open Terminal";
+"instructions.step2.detail" = "Click the toolbar icon to open a terminal in the current folder. Select a folder to open it, or a file to open its containing folder.";
+"instructions.settings.title" = "Change Settings";
+"instructions.settings.detail" = "Double-click go2shell.app in Applications, or hold Option (⌥) and click its Finder toolbar icon.";
+
+/* Tip */
+"tip.open_settings" = "Run open -n /Applications/go2shell.app --args --settings. The --show-ui flag also opens settings.";
+
+"finder.path_error" = "Could not read the Finder directory.";

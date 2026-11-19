@@ -1,0 +1,19 @@
+/* Main view */
+"app.subtitle" = "在 Finder 当前目录快速打开终端";
+"settings.preferred_terminal" = "首选终端";
+"settings.not_installed" = "（未安装）";
+"settings.fallback_note" = "如果选择的终端不可用，将自动使用系统默认终端";
+
+/* Instructions */
+"instructions.title" = "使用方法";
+"instructions.step1.title" = "将应用拖到 Finder 工具栏";
+"instructions.step1.detail" = "按住 ⌘ 键，将 go2shell 图标拖动到 Finder 窗口的工具栏上";
+"instructions.step2.title" = "点击图标快速打开终端";
+"instructions.step2.detail" = "点击工具栏图标可在当前目录打开终端。选中文件夹时会进入该文件夹，选中文件时会进入其所在目录。";
+"instructions.settings.title" = "修改设置";
+"instructions.settings.detail" = "在“应用程序”中双击 go2shell.app，或按住 Option（⌥）键点击 Finder 工具栏图标。";
+
+/* Tip */
+"tip.open_settings" = "命令行可运行 open -n /Applications/go2shell.app --args --settings，也可将 --settings 换为 --show-ui。";
+
+"finder.path_error" = "无法读取 Finder 目录。";
